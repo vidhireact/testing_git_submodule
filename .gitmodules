@@ -1,0 +1,3 @@
+[submodule "testing_git"]
+	path = testing_git
+	url = git@github.com:vidhireact/testing_git.git
